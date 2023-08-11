@@ -86,7 +86,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Made the sos class because there were 3 different classes that shared the same values, so making those into one class seemed to be more organized
+ */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,7 +104,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Made the sos class because there were 3 different classes that shared the same values, so making those into one class seemed to be more organized
+ */
 .sos {
     margin-bottom: 20px;
     padding: 50px;
